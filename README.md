@@ -3,11 +3,16 @@ Arduino project for guard
 
 # Materials
 1.Arduino UNO
+
 2. 220 ohm resistor
-4.LCD display
-5. IR motion sensor
-6. Piezo element
-7. Connecting wires
+
+3.LCD display
+
+4. IR motion sensor
+
+5. Piezo element
+
+6. Connecting wires
  
 # Scheme
 
